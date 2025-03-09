@@ -27,8 +27,6 @@ Framework: LangChain
 AI Model: Google GenAI
 Notebook: Jupyter Notebook for development and testing
 📦 Installation
-Clone the repository:
-git clone https://github.com/username/travel-planner.git  
 Install dependencies:
 cd travel-planner  
 pip install -r requirements.txt  
